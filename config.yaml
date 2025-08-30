@@ -18,6 +18,14 @@ params:
     imageUrl: "/images/profile.jpeg"        # Path to your profile image
     imageWidth: 200
     imageHeight: 200
+
+  socialIcons: 
+    - name: "github"
+      url: "https://github.com/cscaff"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/christian-scaff/"
+    - name: "email"
+      url: "mailto:christianscaff@icloud.com"
  
 
 menu:
