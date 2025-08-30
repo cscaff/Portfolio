@@ -1,5 +1,5 @@
 ---
-layout: "Research"
-url: "/research/"
-summary: Research
+layout: "Experience"
+url: "/experience/"
+summary: Experience
 ---
