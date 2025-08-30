@@ -1,0 +1,13 @@
+/* Reduce spacing between profile and content */
+.profile {
+    margin-bottom: 1rem; /* Reduce from default margin */
+}
+
+.post_content {
+    margin-top: 0; /* Remove top margin */
+}
+
+/* Optional: Add some padding to the content for better spacing */
+.post_content {
+    padding-top: 1rem;
+}

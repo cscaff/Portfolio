@@ -1,0 +1,31 @@
+baseURL: https://christian-scaff.org/
+languageCode: en-us
+title: Christian Scaff
+theme: ["PaperMod"]
+
+params:
+  title: "Christian Scaff"
+  subtitle: "Computer Science Master's Student"
+  description: "Christian Scaff's personal portfolio"
+  keywords: [Blog, Portfolio]
+  defaultTheme: dark
+  disableThemeToggle: true
+
+  profileMode:
+    enabled: true
+    title: "Christian Scaff"                # Your title/name (centered under image)
+    subtitle: "CU MSCS Student | Photographer"      # Subtitle (centered under title)
+    imageUrl: "/images/profile.jpeg"        # Path to your profile image
+    imageWidth: 200
+    imageHeight: 200
+ 
+
+menu:
+  main:
+  - name: "Research"
+    url: "/research/"
+    weight: 10
+  - name: "Photography"
+    url: "/photography/"
+    weight: 20
+  
