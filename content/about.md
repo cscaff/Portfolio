@@ -4,6 +4,8 @@ url: "/about/"
 summary: About Me
 ---
 
+![Header](/images/about_header.JPG)
+
 # Hi!
 
 My name is Christian, and I am Master's student at Columbia University, studying Computer Science. My focus up until now has been in applying **programming language theory** in software development.
